@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/573.6c4ed5a9.chunk.js","mappings":"0HAIE,UAJqB,WACnB,OAAO,uBACR,C","sources":["pages/StatisticsPage.jsx"],"sourcesContent":["const StatisticsPage = () => {\n    return <></>;\n  };\n  \n  export default StatisticsPage;\n  "],"names":[],"sourceRoot":""}

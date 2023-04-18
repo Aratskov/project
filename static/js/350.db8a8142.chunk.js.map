@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/350.db8a8142.chunk.js","mappings":"0HAIA,UAJoB,WAClB,OAAO,uBACR,C","sources":["pages/OwnPlanPage.jsx"],"sourcesContent":["const OwnPlanPage = () => {\n  return <></>;\n};\n\nexport default OwnPlanPage;\n"],"names":[],"sourceRoot":""}

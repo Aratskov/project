@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/707.4e88c381.chunk.js","mappings":"0HAIA,UAJqB,WACnB,OAAO,uBACR,C","sources":["pages/CashflowPage.jsx"],"sourcesContent":["const CashflowPage = () => {\n  return <></>;\n};\n\nexport default CashflowPage;\n"],"names":[],"sourceRoot":""}

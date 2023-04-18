@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/480.eabeaf2d.chunk.js","mappings":"0HAIA,UAJqB,WACnB,OAAO,uBACR,C","sources":["pages/DynamicsPage/DynamicsPage.jsx"],"sourcesContent":["const DynamicsPage = () => {\n  return <></>;\n};\n\nexport default DynamicsPage;\n"],"names":[],"sourceRoot":""}

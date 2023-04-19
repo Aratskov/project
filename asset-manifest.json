@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.9252ab86.css",
+    "main.css": "/project/static/css/main.24aa1648.css",
     "main.js": "/project/static/js/main.b30e62c4.js",
     "static/js/685.a20dbee0.chunk.js": "/project/static/js/685.a20dbee0.chunk.js",
     "static/js/178.498e50b3.chunk.js": "/project/static/js/178.498e50b3.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/Lato-Regular.woff2": "/project/static/media/Lato-Regular.bb882f4771ef3a86e3a1.woff2",
     "static/media/Lato-Medium.woff2": "/project/static/media/Lato-Medium.37b61c5e598ef53aaec1.woff2",
     "index.html": "/project/index.html",
-    "main.9252ab86.css.map": "/project/static/css/main.9252ab86.css.map",
+    "main.24aa1648.css.map": "/project/static/css/main.24aa1648.css.map",
     "main.b30e62c4.js.map": "/project/static/js/main.b30e62c4.js.map",
     "685.a20dbee0.chunk.js.map": "/project/static/js/685.a20dbee0.chunk.js.map",
     "178.498e50b3.chunk.js.map": "/project/static/js/178.498e50b3.chunk.js.map",
@@ -29,7 +29,7 @@
     "193.37c71d30.chunk.js.map": "/project/static/js/193.37c71d30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9252ab86.css",
+    "static/css/main.24aa1648.css",
     "static/js/main.b30e62c4.js"
   ]
 }
